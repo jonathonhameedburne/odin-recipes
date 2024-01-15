@@ -1,0 +1,18 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    background-color: lavender;
+}
+
+body {
+    color: darkgreen
+}
+
+.header {
+    font-size: 28px;
+    color: rebeccapurple;
+}
+
+ul li {
+    margin-bottom: 15px;
+    font-size: 18px;
+}
