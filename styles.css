@@ -39,3 +39,9 @@ ul li {
     width: fit-content;
     margin: auto;
 }
+
+button {
+    background-color: lightgreen;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+}
