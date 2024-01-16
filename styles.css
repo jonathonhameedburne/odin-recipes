@@ -4,6 +4,7 @@ html {
 }
 
 .main {
+    background-color: lavenderblush;
     border: 5px black solid;
     border-radius: 25px;
     border-width: 1em;
@@ -26,7 +27,7 @@ html {
 }
 
 .links {
-    background-color: lightgreen;
+    background-color: lavender;
     border: black solid;
     display: flex;
     padding: 10px;
@@ -38,7 +39,7 @@ html {
 }
 
 button {
-    background-color: lightgreen;
+    background-color: lavender;
     font-size: 16px;
     font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
 }
