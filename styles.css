@@ -42,6 +42,12 @@ button {
     background-color: lavender;
     font-size: 16px;
     font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 img {
