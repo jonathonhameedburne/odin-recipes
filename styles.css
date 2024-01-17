@@ -18,6 +18,7 @@ html {
 .header {
     font-size: 28px;
     color: rebeccapurple;
+    text-decoration: underline;
 }
 
 .header.title{
