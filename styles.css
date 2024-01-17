@@ -60,8 +60,13 @@ img {
     padding: 10px;
 }
 
-.header.ingredients {
-
+.ingredients {
+    border: black solid;
+    border-radius: 25px;
+    border-width: .2em;
+    width: auto;
+    margin-top: 20px;
+    padding: 10px;
 }
 
 .header.steps {
